@@ -7,7 +7,7 @@
 body{
     height: 100vh;
     color: white;
-    /* overflow: hidden; */
+    overflow: hidden;
     text-align: center;
 }
 
